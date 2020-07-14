@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    color: cadetblue;
+    margin-bottom: 50px;
+  }
+  
+  .centerText {
+    text-align: center;
+    display: none;
+  }

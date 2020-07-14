@@ -1,0 +1,18 @@
+.footer {
+    min-height: 35px;
+    background: burlywood;
+    color: cadetblue;
+    position: relative;
+    border-top-color: cadetblue;
+    border-style: double;
+    border-top-width: 2px;
+  }
+  
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: burlywood;
+}

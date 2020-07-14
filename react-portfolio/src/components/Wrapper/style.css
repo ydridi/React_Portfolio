@@ -1,0 +1,8 @@
+.wrapper {
+    background: burlywood;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    min-height: 100%;
+    padding-bottom: 165px; 
+  }

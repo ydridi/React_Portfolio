@@ -1,0 +1,47 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 325px;
+    margin: 1rem;
+    position: relative;
+    width: 95%;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+}
+
+div.card {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.card > .img-container { 
+  height: 80%;
+  overflow: hidden;
+  text-align: center;
+  border: 1px;
+  border-color: black;
+}
+
+.card > .img-container > img {
+  width: 200px;
+  height: 100px;
+  padding:1px;
+  border:1px #2A77AE;
+  background-color:#2A77AE;
+} 
+
+.card > .content {
+  font-size: 10px;
+} 
+
+.card > .content > ul {
+  list-style-type: none;
+} 
+
+ .card > .content > ul > li {
+  margin-top: 5px;
+} 
+
+.underLine {
+  text-decoration: underline;
+}
