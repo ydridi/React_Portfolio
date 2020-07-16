@@ -10,7 +10,7 @@ function About() {
       <Container>
         <Row>
           <Col size="sm-4">
-            <img alt="Yassine Dridi" src="60538601_2373535662711341_5555840200841625600_n.jpg" className="img-fluid" />
+            <img alt="Yassine Dridi" src="yassine.jpg" className="img-fluid" />
           </Col>
           <Col size="sm-4" style={{ color: 'cadetblue' }}>
             <p>Hi.  My name is Yassine Dridi.  I am 36 years old.  I am currently working as a manufacturing Process Technicien for a company called Zentech.  I work with Xray-machine programmer.<br /><br />
